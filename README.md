@@ -1,8 +1,3 @@
-### Heydooooo 👋
-
-I'm Ashwit from India, and I do game development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I am currently learning full stack web development.
-
-
 <h1 align="center">Hi 👋, I'm Ashwit Sharma</h1>
 <h3 align="center">A passionate Game developer and programmer from India</h3>
 
