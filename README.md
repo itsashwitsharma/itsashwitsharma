@@ -2,9 +2,9 @@
 
 I'm Ashwit from India, and I do game development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I am currently learning full stack web development.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsashwitsharma)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Ashwit Sharma</h1>
+<h3 align="center">A passionate Game developer and programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsashwitsharma&label=Profile%20views&color=0e75b6&style=flat" alt="itsashwitsharma" /> </p>
 
@@ -12,7 +12,7 @@ I'm Ashwit from India, and I do game development. I really enjoy learning langua
 
 <p align="left"> <a href="https://twitter.com/itsashwitsharma" target="blank"><img src="https://img.shields.io/twitter/follow/itsashwitsharma?logo=twitter&style=for-the-badge" alt="itsashwitsharma" /></a> </p>
 
-- 🔭 I’m currently working on **A website for booklog**
+- 🔭 I’m currently working on **a website for my UNI**
 
 - 🌱 I’m currently learning **FullStack Web-Development**
 
@@ -34,3 +34,4 @@ I'm Ashwit from India, and I do game development. I really enjoy learning langua
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsashwitsharma&show_icons=true&locale=en&layout=compact" alt="itsashwitsharma" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsashwitsharma&show_icons=true&locale=en" alt="itsashwitsharma" /></p>
+
