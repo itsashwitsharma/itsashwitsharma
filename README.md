@@ -1,9 +1,9 @@
 <h1 align="center">Heydooo 👋, I'm Ashwit Sharma</h1>
 <h3 align="center">A passionate Game developer and programmer from India</h3>
 
-- 🔭 I’m currently working on **a website for my UNI**
+- 🔭 I’m currently working on **an app**
 
-- 🌱 I’m currently learning **FullStack Web-Development**
+- 🌱 I’m currently learning **iOS App Dev*
 
 - 👯 I’m looking to collaborate on **GameProject on Unity**
 
