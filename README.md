@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **an app**
 
-- 🌱 I’m currently learning **iOS App Dev*
+- 🌱 I’m currently learning *iOS App Dev*
 
 - 👯 I’m looking to collaborate on **GameProject on Unity**
 
